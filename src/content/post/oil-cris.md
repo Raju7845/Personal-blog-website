@@ -8,7 +8,7 @@ dateFormatted: Mar 10, 2026
 India is one of the fastest growing economies in the world, but its energy system depends heavily on **imported crude oil**.  
 More than **80% of India's crude oil demand is met through imports**, making the country vulnerable to global supply disruptions.
 
-Geopolitical tensions, shipping route disruptions, or production slowdowns in major oil-producing regions can cause rapid increases in fuel prices. Since fuels like **petrol, diesel, and LPG** power transportation, logistics, and households, even small supply shocks can ripple through the entire economy.
+Geopolitical tensions, shipping route disruptions, or production slowdowns in major oil-producing regions can cause rapid increases in fuel prices. Since fuels like **petrol, diesel, and LPG** power transportation, logistics, and households, even small supply shocks can ripple through the entireA economy.
 
 Using publicly available energy statistics, we can analyze how India's oil dependency and fuel consumption patterns could influence economic stability.
 
