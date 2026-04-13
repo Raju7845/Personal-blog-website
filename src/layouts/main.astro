@@ -5,6 +5,11 @@ import SquareLines from "../components/square-lines.astro";
 const { title } = Astro.props;
 ---
 
+<script>
+  import { inject } from '@vercel/analytics';
+  inject();
+</script>
+
 <!doctype html>
 <html lang="en">
   <head>
