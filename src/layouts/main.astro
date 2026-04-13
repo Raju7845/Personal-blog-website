@@ -1,8 +1,10 @@
 ---
+import { inject } from "@vercel/analytics";
 import Footer from "../components/footer.astro";
 import Header from "../components/header.astro";
 import SquareLines from "../components/square-lines.astro";
 const { title } = Astro.props;
+inject();
 ---
 
 <!doctype html>

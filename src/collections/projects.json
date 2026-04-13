@@ -1,20 +1,20 @@
 [
-  {
-    "name": "FinRAG — Indian Mutual Fund Intelligence",
-    "description": "A Retrieval-Augmented Generation (RAG) system that enables natural language queries over Indian mutual fund datasets using ChromaDB and Groq LLM.",
-    "image": "/assets/images/projects/RAG.jpg",
-    "url": "https://github.com/Raju7845/FINTECH-RAG"
-  },
-  {
-  "name": "MS Dhoni ODI Performance Dashboard",
-  "description": "A data visualization project analyzing MS Dhoni’s ODI batting performance (2005–2014) against international teams using interactive charts and dashboards to uncover scoring patterns, boundary distribution, and performance trends.",
-  "image": "/assets/images/projects/dhoni.png",
-  "url": "https://github.com/Raju7845/MS-DHONI-DASHBOARD-ANALYSIS"
-},
-{
-  "name": "Zepto Inventory & Product Sales Analysis",
-  "description": "A Power BI dashboard analyzing Zepto’s inventory and product sales data to uncover insights on sales performance, discount strategies, product categories, and stock availability.",
-  "image": "/assets/images/projects/zepto.png",
-  "url": "https://github.com/Raju7845/Zepto-Inventory-Product-Sales-Analysis"
-}
+	{
+		"name": "FinRAG — Indian Mutual Fund Intelligence",
+		"description": "A Retrieval-Augmented Generation (RAG) system that enables natural language queries over Indian mutual fund datasets using ChromaDB and Groq LLM.",
+		"image": "/assets/images/projects/RAG.jpg",
+		"url": "https://github.com/Raju7845/FINTECH-RAG"
+	},
+	{
+		"name": "MS Dhoni ODI Performance Dashboard",
+		"description": "A data visualization project analyzing MS Dhoni’s ODI batting performance (2005–2014) against international teams using interactive charts and dashboards to uncover scoring patterns, boundary distribution, and performance trends.",
+		"image": "/assets/images/projects/dhoni.png",
+		"url": "https://github.com/Raju7845/MS-DHONI-DASHBOARD-ANALYSIS"
+	},
+	{
+		"name": "Zepto Inventory & Product Sales Analysis",
+		"description": "A Power BI dashboard analyzing Zepto’s inventory and product sales data to uncover insights on sales performance, discount strategies, product categories, and stock availability.",
+		"image": "/assets/images/projects/zepto.png",
+		"url": "https://github.com/Raju7845/Zepto-Inventory-Product-Sales-Analysis"
+	}
 ]
