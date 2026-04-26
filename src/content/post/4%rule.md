@@ -2,7 +2,7 @@
 layout: ../../layouts/post.astro
 title: "Why the 4% Withdrawal Rule Does Not Suit India"
 description: "Why I prefer a 3% withdrawal strategy and a bucket-based FIRE framework for Indian investors."
-dateFormatted: "Apr xx, 2026"
+dateFormatted: "Apr 24, 2026"
 ---
 
 The 4% withdrawal rule is one of the most popular ideas in FIRE. Build a corpus equal to 25 times your annual expenses, withdraw 4% every year adjusted for inflation, and your money should theoretically last for decades. It sounds simple enough to feel universal, but the more I studied where this rule came from, the more I realized it was designed for a very specific environment and not necessarily for India.
