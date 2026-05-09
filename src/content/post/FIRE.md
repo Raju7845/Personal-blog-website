@@ -12,6 +12,7 @@ Most people follow the default life script:
 
 Study till 22 → work till 60 → take a huge home loan → buy things you don’t need → upgrade phones every year → attend random weddings → save whatever is left (usually nothing) → retire and hope your children take care of you.
 
+![MIDDLE CLASS PLAN](/assets/images/posts/IMAGE.png)
 Basically:
 
 “My retirement plan is my son becoming a software engineer.”
@@ -69,6 +70,7 @@ You’ve probably seen reels saying things like:
 It sounds great—but FIRE is not a one-size-fits-all formula. Your FIRE number completely depends on the kind of lifestyle you want after retirement. Someone who wants a simple life in a tier-2 city will need far less than someone who wants luxury travel, international vacations, and premium living.
 
 That’s why FIRE is broadly divided into different categories.
+![TYPES OF FIRE ](/assets/images/posts/FIRE.jpg)
 
 ### Lean FIRE
 
@@ -356,7 +358,7 @@ Here’s how your wealth could grow:
 | 25 | ₹1.52L | ₹18.26L | **₹8.78 Cr** |
 
 ---
-
+![COMPOUNDING](/assets/images/posts/compounding.png)
 Notice something interesting?
 
 For the first 8–10 years, growth feels painfully slow.
