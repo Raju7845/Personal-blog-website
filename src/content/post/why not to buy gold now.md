@@ -2,7 +2,7 @@
 layout: ../../layouts/post.astro
 title: "Why PM Modi Wants Indians To Stop Buying Gold For 1 Year"
 description: "PM Modi asked Indians to avoid gold purchases during global uncertainty. Here's the real math behind that request — and why Indians almost always buy gold at exactly the wrong time."
-dateFormatted: "May 11, 2026"
+dateFormatted: "May 12, 2026"
 ---
 
 ## PM Modi Said Something Most People Ignored
